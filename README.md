@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hello, I'm **Pulasthi Bandara**! 🚀  
-## 🌐 Full-Stack Developer | 💡 Tech Enthusiast | 🎓 Computer Science Student
+## 🌐 Full-Stack Developer | 💡 Tech Enthusiast | 🎓 CINEC Undergrad
 
 </div>
 
@@ -39,10 +39,10 @@
 ### 🎓 Education
 
 **CINEC Campus**  
-- Bsc in Computer Science - 
+- Bsc in Computer Science 
 
 **ICBT Campus**
-- Higher Diploma in Computing & Software Engineering -
+- Higher Diploma in Computing & Software Engineering 
 
 ---
 
