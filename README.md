@@ -67,7 +67,7 @@
 <div align="center">
 
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Pulasthi2002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Pulasthi2002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage"
     alt="Pulasthi's GitHub Stats"
   />
   <img height="180em"
@@ -82,15 +82,6 @@
   <img
     src="https://streak-stats.demolab.com?user=Pulasthi2002&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
     alt="GitHub Streak"
-  />
-
-</div>
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Pulasthi2002&theme=tokyo-night&hide_border=true&area=true"
-    alt="Contribution Activity Graph"
   />
 
 </div>
