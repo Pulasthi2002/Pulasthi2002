@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Intern+Software+Engineer+%40+MathaX+%F0%9F%92%BC;Flutter+%26+Dart+Mobile+Developer+%F0%9F%93%B1;Full+Stack+%7C+Web+%7C+Mobile+App+Builder+%F0%9F%9B%A0%EF%B8%8F;BSc+Computer+Science+%40+CINEC+%7C+ICBT+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Intern+Software+Engineer+%40+MathaX+%F0%9F%92%BC;Flutter+%26+Dart+Mobile+Developer+%F0%9F%93%B1;Full+Stack+%7C+Web+%7C+Mobile+App+Builder+%F0%9F%9B%A0%EF%B8%8F;BSc+Computer+Science+%40+CINEC)](https://git.io/typing-svg)
 
 <br/>
 
@@ -32,19 +32,17 @@
 
 ```ts
 const pulasthi = {
-  role:      "Intern Software Engineer @ MathaX",
+  Role:      "Intern Software Engineer @ MathaX",
   education: [
     "BSc (Hons) Computer Science — CINEC",
     "HD Computing & Software Eng — ICBT",
   ],
-  location:  "Sri Lanka 🇱🇰",
-  interests: [
+  Location:  "Sri Lanka 🇱🇰",
+  Interests: [
     "Full Stack Development",
     "Web Development",
     "Mobile App Development",
   ],
-  currentFocus: "Flutter · Dart · Riverpod",
-  funFact:   "I turn Figma designs into pixel-perfect code ✨",
 };
 ```
 
@@ -111,7 +109,7 @@ const pulasthi = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -127,7 +125,7 @@ const pulasthi = {
 <br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulasthi2002&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulasthi2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"
   alt="Top Languages"
 />
 
@@ -141,9 +139,12 @@ const pulasthi = {
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Pulasthi2002/Pulasthi2002/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pulasthi2002/Pulasthi2002/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Pulasthi2002/Pulasthi2002/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Pulasthi2002/Pulasthi2002/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Pulasthi2002/Pulasthi2002/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake"
+    src="https://raw.githubusercontent.com/Pulasthi2002/Pulasthi2002/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 </div>
 
