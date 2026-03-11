@@ -6,15 +6,9 @@
 
 <br/>
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/-Pulasthi%20Bandara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL_HERE">
-  <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Pulasthi2002">
-  <img src="https://img.shields.io/badge/-Pulasthi2002-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/Pulasthi%20Bandara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![GitHub](https://img.shields.io/badge/Pulasthi2002-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pulasthi2002)
 
 <br/><br/>
 
@@ -114,7 +108,7 @@ const pulasthi = {
 <div align="center">
 
 <img height="195"
-  src="https://github-readme-stats.vercel.app/api?username=Pulasthi2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&show=reviews,prs_merged,prs_merged_percentage"
+  src="https://github-readme-stats.vercel.app/api?username=Pulasthi2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&hide=stars,issues,contribs"
   alt="GitHub Stats"
 />
 <img height="195"
@@ -161,7 +155,7 @@ const pulasthi = {
 
 <br/>
 
-> *"First, solve the problem. Then, write the code."* 
+> *"First, solve the problem. Then, write the code."*
 
 <br/>
 
