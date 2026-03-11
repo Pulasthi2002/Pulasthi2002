@@ -67,7 +67,7 @@
 <div align="center">
 
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Pulasthi2002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage"
+    src="https://github-readme-stats.vercel.app/api?username=Pulasthi2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage"
     alt="Pulasthi's GitHub Stats"
   />
   <img height="180em"
