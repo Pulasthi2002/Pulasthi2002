@@ -161,7 +161,7 @@ const pulasthi = {
 
 <br/>
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"First, solve the problem. Then, write the code."* 
 
 <br/>
 
