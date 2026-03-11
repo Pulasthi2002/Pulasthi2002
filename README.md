@@ -6,9 +6,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Pulasthi%20Bandara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
-[![GitHub](https://img.shields.io/badge/Pulasthi2002-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pulasthi2002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pulasthi2002)
 
 <br/><br/>
 
@@ -22,7 +22,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px"/>
 
 ```ts
 const pulasthi = {
@@ -52,7 +52,7 @@ const pulasthi = {
 
 <table>
   <tr>
-    <td align="center" width="200"><b>📱 Mobile</b></td>
+    <td align="center" width="160"><b>📱 Mobile</b></td>
     <td>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
@@ -78,7 +78,7 @@ const pulasthi = {
     </td>
   </tr>
   <tr>
-    <td align="center"><b>🗄️ Database & Cloud</b></td>
+    <td align="center"><b>🗄️ DB & Cloud</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white"/>
@@ -107,20 +107,44 @@ const pulasthi = {
 
 <div align="center">
 
-<img height="195"
-  src="https://github-readme-stats.vercel.app/api?username=Pulasthi2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&hide=stars,issues,contribs"
-  alt="GitHub Stats"
-/>
-<img height="195"
-  src="https://streak-stats.demolab.com?user=Pulasthi2002&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9"
-  alt="GitHub Streak"
-/>
+<!-- Row 1: Stats + Streak — stacks vertically on mobile -->
+<picture>
+  <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=Pulasthi2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&hide=stars,issues,contribs&card_width=400"/>
+  <img height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Pulasthi2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&hide=stars,issues,contribs"
+    alt="GitHub Stats"
+  />
+</picture>
+<picture>
+  <source media="(max-width: 768px)" srcset="https://streak-stats.demolab.com?user=Pulasthi2002&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&card_width=400"/>
+  <img height="180"
+    src="https://streak-stats.demolab.com?user=Pulasthi2002&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9"
+    alt="GitHub Streak"
+  />
+</picture>
 
 <br/>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulasthi2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"
+<!-- Row 2: Top Languages — full width on mobile -->
+<img width="100%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulasthi2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&card_width=800"
   alt="Top Languages"
+/>
+
+</div>
+
+---
+
+### 🔀 Pull Request Stats
+
+<div align="center">
+
+[![PRs](https://img.shields.io/badge/Total%20PRs-Check%20Profile-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pulasthi2002?tab=repositories)
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Pulasthi2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&show=prs_merged,prs_merged_percentage,reviews&hide=stars,issues,contribs,commits"
+  alt="PR Stats"
+  width="100%"
 />
 
 </div>
@@ -137,7 +161,7 @@ const pulasthi = {
     srcset="https://raw.githubusercontent.com/Pulasthi2002/Pulasthi2002/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Pulasthi2002/Pulasthi2002/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake"
+  <img width="100%" alt="github-snake"
     src="https://raw.githubusercontent.com/Pulasthi2002/Pulasthi2002/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 </div>
@@ -150,7 +174,7 @@ const pulasthi = {
 
 ### 💬 Let's Build Something Great Together
 
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
 <br/>
