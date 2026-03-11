@@ -109,9 +109,9 @@ const pulasthi = {
 
 <!-- Row 1: Stats + Streak — stacks vertically on mobile -->
 <picture>
-  <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=Pulasthi2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&hide=stars,issues,contribs&card_width=400"/>
+  <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=Pulasthi2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&show=prs_merged&hide=stars,issues,contribs&card_width=400"/>
   <img height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Pulasthi2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&hide=stars,issues,contribs"
+    src="https://github-readme-stats.vercel.app/api?username=Pulasthi2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&show=prs_merged&hide=stars,issues,contribs"
     alt="GitHub Stats"
   />
 </picture>
@@ -129,22 +129,6 @@ const pulasthi = {
 <img width="100%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulasthi2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&card_width=800"
   alt="Top Languages"
-/>
-
-</div>
-
----
-
-### 🔀 Pull Request Stats
-
-<div align="center">
-
-[![PRs](https://img.shields.io/badge/Total%20PRs-Check%20Profile-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pulasthi2002?tab=repositories)
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Pulasthi2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&show=prs_merged,prs_merged_percentage,reviews&hide=stars,issues,contribs,commits"
-  alt="PR Stats"
-  width="100%"
 />
 
 </div>
