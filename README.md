@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/-Pulasthi%20Bandara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:YOUR_EMAIL_HERE">
-  <img src="https://img.shields.io/badge/-YOUR__EMAIL__HERE-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Pulasthi2002">
   <img src="https://img.shields.io/badge/-Pulasthi2002-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -32,17 +32,19 @@
 
 ```ts
 const pulasthi = {
-  Role:      "Intern Software Engineer @ MathaX",
-  Education: [
+  role:      "Intern Software Engineer @ MathaX",
+  education: [
     "BSc (Hons) Computer Science — CINEC",
     "HD Computing & Software Eng — ICBT",
   ],
-  Location:  "Sri Lanka 🇱🇰",
-  Interests: [
+  location:  "Sri Lanka 🇱🇰",
+  interests: [
     "Full Stack Development",
     "Web Development",
     "Mobile App Development",
   ],
+  currentFocus: "Flutter · Dart · Riverpod",
+  funFact:   "I turn Figma designs into pixel-perfect code ✨",
 };
 ```
 
@@ -135,19 +137,6 @@ const pulasthi = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 Achievements
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Pulasthi2002&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"
-    alt="GitHub Trophies"
-  />
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 🐍 Contribution Graph
 
 <div align="center">
@@ -159,6 +148,8 @@ const pulasthi = {
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
 
