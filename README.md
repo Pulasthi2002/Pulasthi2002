@@ -97,18 +97,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/Pulasthi2002/Pulasthi2002/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Pulasthi2002/Pulasthi2002/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://github.com/Pulasthi2002/Pulasthi2002/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
 <div align="center">
   <i>⚡ "Code is craft. Ship with care."</i>
 </div>
