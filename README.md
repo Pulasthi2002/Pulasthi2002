@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Banner -->
 <a href="https://github.com/Pulasthi2002">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Pulasthi+Bandara+%F0%9F%91%8B;Software+Engineer+%7C+Flutter+Developer;Full-Stack+Engineer+%7C+UI%2FUX+Lover;Always+Building%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Pulasthi+Bandara+%F0%9F%91%8B;Intern+Software+Engineer+%40+MathaX;Full-Stack+%7C+Web+%7C+Mobile+App+Developer;Always+Building%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,12 +16,15 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Recent IT graduate, growing as a **Software Engineer**
-- 💻 Building robust **full-stack web applications** & cross-platform **mobile apps**
+- 💼 **Intern Software Engineer** @ [MathaX](YOUR_MATHAX_URL)
+- 🎓 **BSc (Hons) in Computer Science** @ CINEC Campus
+- 🎓 **HD in Computing & Software Engineering** @ ICBT Campus
+- 🌐 Interested in **Full Stack Development**, **Web Development** & **Mobile App Development**
 - 📱 Focused on **Flutter & Dart** for high-quality mobile experiences
-- 🎨 Passionate about clean **Java** code & intuitive **UI/UX** design
-- 🌐 Based in **Dambulla, Sri Lanka** 🇱🇰
-- 📫 Reach me: [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL_HERE)
+- 🌍 Based in **Dambulla, Sri Lanka** 🇱🇰
+- 📫 Reach me:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 
 ---
 
@@ -84,6 +87,29 @@
     alt="GitHub Streak"
   />
 
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Pulasthi2002&theme=tokyonight&no-frame=true&row=1&column=6"
+    alt="GitHub Trophies"
+  />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github.com/Pulasthi2002/Pulasthi2002/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Pulasthi2002/Pulasthi2002/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://github.com/Pulasthi2002/Pulasthi2002/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
