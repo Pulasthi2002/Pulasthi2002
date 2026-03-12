@@ -38,11 +38,11 @@ const pulasthi = {
     "Mobile App Development",
   ],
 };
-```
+` `` 
 
 <br clear="right"/>
 
----
+***
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -99,41 +99,7 @@ const pulasthi = {
 
 </div>
 
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Row 1: Stats + Streak — stacks vertically on mobile -->
-<picture>
-  <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=Pulasthi2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&show=prs_merged&hide=stars,issues,contribs&card_width=400"/>
-  <img height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Pulasthi2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&show=prs_merged&hide=stars,issues,contribs"
-    alt="GitHub Stats"
-  />
-</picture>
-<picture>
-  <source media="(max-width: 768px)" srcset="https://streak-stats.demolab.com?user=Pulasthi2002&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&card_width=400"/>
-  <img height="180"
-    src="https://streak-stats.demolab.com?user=Pulasthi2002&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9"
-    alt="GitHub Streak"
-  />
-</picture>
-
-<br/>
-
-<!-- Row 2: Top Languages — full width on mobile -->
-<img width="100%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulasthi2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&card_width=800"
-  alt="Top Languages"
-/>
-
-</div>
-
----
+***
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -150,7 +116,7 @@ const pulasthi = {
 </picture>
 </div>
 
----
+***
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -158,8 +124,8 @@ const pulasthi = {
 
 ### 💬 Let's Build Something Great Together
 
-[![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[
+[
 
 <br/>
 
