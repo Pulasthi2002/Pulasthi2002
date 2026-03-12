@@ -108,13 +108,10 @@ const pulasthi = {
 <div align="center">
 
 <picture>
-  <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=Pulasthi2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&hide=stars,issues,contribs&show=prs_merged&include_all_commits=false&card_width=400"/>
+  <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=Pulasthi2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&hide=stars,issues,contribs&include_all_commits=false&card_width=400"/>
   <img height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Pulasthi2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&hide=stars,issues,contribs&show=prs_merged&include_all_commits=false"
-    alt="GitHub Stats"
   />
 </picture>
-
 <picture>
   <source media="(max-width: 768px)" srcset="https://streak-stats.demolab.com?user=Pulasthi2002&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&card_width=400"/>
   <img height="180"
