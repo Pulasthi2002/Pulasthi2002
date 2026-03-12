@@ -38,11 +38,11 @@ const pulasthi = {
     "Mobile App Development",
   ],
 };
-` `` 
+```
 
 <br clear="right"/>
 
-***
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -99,7 +99,7 @@ const pulasthi = {
 
 </div>
 
-***
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -116,7 +116,7 @@ const pulasthi = {
 </picture>
 </div>
 
-***
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -124,8 +124,8 @@ const pulasthi = {
 
 ### 💬 Let's Build Something Great Together
 
-[
-[
+[![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
 <br/>
 
